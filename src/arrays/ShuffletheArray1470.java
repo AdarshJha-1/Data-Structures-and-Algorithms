@@ -1,3 +1,5 @@
+package arrays;
+
 public class ShuffletheArray1470 {
     public int[] shuffle(int[] nums, int n) {
         int[] ans = new int[2 * n];
